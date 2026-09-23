@@ -3,9 +3,11 @@ using Microsoft.EntityFrameworkCore;
 using CustomerManagement.API.Data;
 using CustomerManagement.API.Models;
 using CustomerManagement.API.DTOs;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CustomerManagement.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class CustomersController : ControllerBase

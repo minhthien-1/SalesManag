@@ -142,3 +142,6 @@ T:\Trợ_Giảng\SalesManagement\CustomerManagement.API\obj\Debug\net8.0\refint\
 T:\Trợ_Giảng\SalesManagement\CustomerManagement.API\obj\Debug\net8.0\CustomerManagement.API.pdb
 T:\Trợ_Giảng\SalesManagement\CustomerManagement.API\obj\Debug\net8.0\CustomerManagement.API.genruntimeconfig.cache
 T:\Trợ_Giảng\SalesManagement\CustomerManagement.API\obj\Debug\net8.0\ref\CustomerManagement.API.dll
+T:\Trợ_Giảng\SalesManagement\CustomerManagement.API\obj\Debug\net8.0\CustomerManagement.API.sourcelink.json
+T:\Trợ_Giảng\SalesManagement\CustomerManagement.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+T:\Trợ_Giảng\SalesManagement\CustomerManagement.API\bin\Debug\net8.0\BCrypt.Net-Next.dll

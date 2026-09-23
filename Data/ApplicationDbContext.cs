@@ -7,5 +7,6 @@ namespace CustomerManagement.API.Data
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
         public DbSet<Customer> Customers { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }
